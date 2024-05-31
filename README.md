@@ -34,17 +34,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-rj-here&theme=dark&hide_border=false" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/snake.svg" alt="Snake animation" />
-
-###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itz-rj-here&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itz-rj-here&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
+<img src="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=itz-rj-here&icon=8&color=1)](https://visitcount.itsvg.in)
 
