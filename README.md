@@ -8,16 +8,12 @@
 
 </div>
 
----
-
 ## 💫 About Me:
 - 🔭 **Currently working on:** Custom ROM Organization List  
 - 👯 **Collaborated with:** Lazy Carrot Network  
 - 🌱 **Learning:** Java, JavaScript, HTML, CSS  
 - 📫 **Reach me via:** [faiadmahmudadil@gmail.com](mailto:faiadmahmudadil@gmail.com)  
 - 💬 **Ask me about:** Minecraft and tech fun!  
-
----
 
 ## 🌐 Connect with Me:
 
@@ -33,8 +29,6 @@
   </a>
 </p>
 
----
-
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,7 +36,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats:
 
@@ -52,7 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-rj-here&theme=dracula" alt="GitHub Streak" height="150" />
 </div>
 
----
 
 ## 🏆 GitHub Trophies:
 
@@ -60,14 +52,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=itz-rj-here&theme=radical&margin-w=10" alt="GitHub Trophies" />
 </p>
 
----
-
 ## 🔝 Top Contributions:
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=itz-rj-here&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </p>
 
----
 
 ## 🐍 Contribution Snake:
 <p align="center">
