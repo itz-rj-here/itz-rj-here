@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm RJ</h1>
 
-🌟 A passionate tech enthusiast diving into the world of programming, open source, and design. I’m constantly learning and growing as I explore new technologies and collaborate on exciting projects. 🌱
+🌟 A passionate tech enthusiast diving into the world of programming, open source, and design. I’m constantly learning and growing as I explore new technologies and collaborate on exciting projects.
 
 </div>
 
@@ -32,10 +32,9 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,au,autocad,aws,azure,bash,blender,c,cs,cpp,cloudflare,css,discord,bots,discordjs,docker,dotnet,eclipse,express,flutter,gcp,git,github,githubactions,gitlab,gmail,gradle,heroku,html,idea,instagram,java,js,jenkins,kali,kotlin,linux,maven,mongodb,mysql,netlify,nextjs,nodejs,npm,ps,powershell,pr,py,react,sqlite,twitter,ts,ubuntu,unity,unreal,windows,wordpress,yarn" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,au,autocad,aws,azure,bash,blender,c,cs,cpp,cloudflare,css,discord,bots,discordjs,docker,dotnet,eclipse,express,flutter,gcp,git,github,graphql,html,java,javascript,linux,md,mdx,mongodb,mysql,nginx,nodejs,php,postman,py,react,redux,sass,sqlite,ts,vercel,vscode,wasm,wordpress,xd" alt="Tech Stack" />
   </a>
 </p>
-
 
 ## 📊 GitHub Stats:
 
@@ -44,7 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-rj-here&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-rj-here&theme=dracula" alt="GitHub Streak" height="150" />
 </div>
-
 
 ## 🏆 GitHub Trophies:
 
@@ -56,7 +54,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=itz-rj-here&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </p>
-
 
 ## 🐍 Contribution Snake:
 <p align="center">
