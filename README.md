@@ -9,11 +9,11 @@
 </div>
 
 ## 💫 About Me:
-- 🔭 **Currently working on:** Custom ROM Organization List  
-- 👯 **Collaborated with:** Lazy Carrot Network  
-- 🌱 **Learning:** Java, JavaScript, HTML, CSS  
-- 📫 **Reach me via:** [faiadmahmudadil@gmail.com](mailto:faiadmahmudadil@gmail.com)  
-- 💬 **Ask me about:** Minecraft and tech fun!  
+- 🔭 **Currently working on:** Material You NewTab, TeenAgeTech Bangladesh
+- 👯 **Collaborated with:** [Material You NewTab](https://github.com/XengShi/materialYouNewTab), [Pixel Development](https://github.com/PixelzDevelopment), [TeenAgeTech Bangladesh](https://github.com/TeenAgeTechBD), and Lazy Carrot Network
+- 🌱 **Learning:** HTML, CSS, JavaScript, Java
+- 📫 **Reach me via:** [faiadmahmudadil@gmail.com](mailto:faiadmahmudadil@gmail.com)
+- 💬 **Ask me about:** Minecraft and tech fun!
 
 ## 🌐 Connect with Me:
 
