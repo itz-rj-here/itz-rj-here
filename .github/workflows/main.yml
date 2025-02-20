@@ -27,8 +27,8 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
     
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
