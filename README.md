@@ -18,8 +18,14 @@
 ## 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://www.instagram.com/certified_valochele/" target="_blank">
+  <a href="https://linkedin.com/in/itz-rj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/certified_valochele/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/itzrjhere" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Discord" />
   </a>
   <a href="https://x.com/_itz_rj_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
@@ -32,7 +38,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,au,autocad,aws,azure,bash,blender,c,cs,cpp,cloudflare,css,discord,bots,discordjs,docker,dotnet,eclipse,express,flutter,gcp,git,github,graphql,html,java,javascript,linux,md,mdx,mongodb,mysql,nginx,nodejs,php,postman,py,react,redux,sass,sqlite,ts,vercel,vscode,wasm,wordpress,xd" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,autocad,bash,blender,cloudflare,codepen,css,debian,devto,discord,bots,discordjs,docker,dotnet,gcp,git,github,githubactions,gitlab,gmail,gradle,heroku,html,idea,ai,instagram,java,js,jenkins,kotlin,linkedin,linux,md,materialui,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,ps,php,powershell,py,replit,robloxstudio,sqlite,stackoverflow,svg,ts,ubuntu,vercel,visualstudio,vscode,windows" alt="Tech Stack" />
   </a>
 </p>
 
