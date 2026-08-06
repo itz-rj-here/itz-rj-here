@@ -18,19 +18,19 @@
 ## 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/itz-rj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="Discord" />
+  <a href="https://linkedin.com/in/itz-rj/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/certified_valochele/" target="_blank">
+  <a href="https://instagram.com/certified_valochele/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/itzrjhere" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Discord" />
+  <a href="https://facebook.com/itzrjhere" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Facebook" />
   </a>
-  <a href="https://x.com/_itz_rj_" target="_blank">
+  <a href="https://x.com/_itz_rj_" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
   </a>
-  <a href="https://discordapp.com/users/722033282631467069" target="_blank">
+  <a href="https://discordapp.com/users/722033282631467069" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" />
   </a>
 </p>
