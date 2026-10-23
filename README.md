@@ -2,72 +2,88 @@
 
 [![Support Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
-<h1>Hi 👋, I'm RJ</h1>
+# Hey, I’m RJ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand" />
 
-🌟 A passionate tech enthusiast diving into the world of programming, open source, and design. I’m constantly learning and growing as I explore new technologies and collaborate on exciting projects.
+**Tech enthusiast · Open-source contributor · Design explorer**
+
+I’m a curious builder from Bangladesh, learning in public and turning ideas into useful, thoughtful experiences. I enjoy exploring the space where programming, open source, and design meet.
+
+[![Profile views](https://komarev.com/ghpvc/?username=itz-rj-here&label=Profile%20views&color=7c3aed&style=flat)](https://github.com/itz-rj-here)
+[![Follow](https://img.shields.io/github/followers/itz-rj-here?label=Follow&style=flat&color=7c3aed)](https://github.com/itz-rj-here?tab=followers)
 
 </div>
 
-## 💫 About Me:
-- 🔭 **Currently working on:** Material You NewTab, TeenAgeTech Bangladesh
-- 👯 **Collaborated with:** [Material You NewTab](https://github.com/XengShi/materialYouNewTab), [Pixel Development](https://github.com/PixelzDevelopment), [TeenAgeTech Bangladesh](https://github.com/TeenAgeTechBD), and Lazy Carrot Network
-- 🌱 **Learning:** HTML, CSS, JavaScript, Java
-- 📫 **Reach me via:** [faiadmahmudadil@gmail.com](mailto:faiadmahmudadil@gmail.com)
-- 💬 **Ask me about:** Minecraft and tech fun!
+## About me
 
-## 🌐 Connect with Me:
+- 🔭 Building **Material You NewTab** and contributing to **TeenAgeTech Bangladesh**
+- 🌱 Currently growing with **HTML, CSS, JavaScript, and Java**
+- 🤝 Open to collaborating on friendly open-source and community projects
+- 💬 Happy to talk about **Minecraft, tech, and the fun side of the internet**
+- 📫 Reach me at [faiadmahmudadil@gmail.com](mailto:faiadmahmudadil@gmail.com)
 
-<p align="center">
-  <a href="https://linkedin.com/in/itz-rj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/certified_valochele/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/itzrjhere" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Discord" />
-  </a>
-  <a href="https://x.com/_itz_rj_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
-  </a>
-  <a href="https://discordapp.com/users/722033282631467069" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" />
-  </a>
-</p>
-
-## 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,autocad,bash,blender,cloudflare,codepen,css,debian,devto,discord,bots,discordjs,docker,dotnet,gcp,git,github,githubactions,gitlab,gmail,gradle,heroku,html,idea,ai,instagram,java,js,jenkins,kotlin,linkedin,linux,md,materialui,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,ps,php,powershell,py,replit,robloxstudio,sqlite,stackoverflow,svg,ts,ubuntu,vercel,visualstudio,vscode,windows" alt="Tech Stack" />
-  </a>
-</p>
-
-## 📊 GitHub Stats:
+## Featured communities
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itz-rj-here&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-rj-here&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-rj-here&theme=dracula" alt="GitHub Streak" height="150" />
+
+[![Material You NewTab](https://img.shields.io/badge/Material%20You-NewTab-6750A4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/XengShi/materialYouNewTab)
+[![Pixel Development](https://img.shields.io/badge/Pixel-Development-1f6feb?style=for-the-badge)](https://github.com/PixelzDevelopment)
+[![TeenAgeTech Bangladesh](https://img.shields.io/badge/TeenAgeTech-Bangladesh-00897B?style=for-the-badge)](https://github.com/TeenAgeTechBD)
+
 </div>
 
-## 🏆 GitHub Trophies:
+## Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itz-rj-here&theme=radical&margin-w=10" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/itz-rj/" aria-label="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/certified_valochele/" aria-label="Instagram">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/itzrjhere" aria-label="Facebook">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/_itz_rj_" aria-label="X">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://discordapp.com/users/722033282631467069" aria-label="Discord">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" alt="Discord" />
+  </a>
+</div>
 
-## 🔝 Top Contributions:
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=itz-rj-here&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
+## Toolbox
 
-## 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,kotlin,py,php,nodejs,nextjs,androidstudio,materialui,mongodb,mysql,sqlite,docker,git,github,githubactions,cloudflare,gcp,linux,debian,ubuntu,windows,blender,autocad,ps,vscode&perline=14" alt="RJ's technology toolbox" />
+</div>
 
----
+## GitHub activity
 
-[![](https://visitcount.itsvg.in/api?id=itz-rj-here&icon=8&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itz-rj-here&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=94a3b8" height="165" alt="RJ's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-rj-here&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=7c3aed&text_color=94a3b8" height="165" alt="RJ's most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=itz-rj-here&hide_border=true&background=00000000&ring=7c3aed&fire=fb923c&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=94a3b8" height="165" alt="RJ's contribution streak" />
+</div>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=a7r52y0t8w4zrxechxzgljpa4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itz-rj-here&theme=radical&no-frame=true&margin-w=12&margin-h=12" alt="RJ's GitHub trophies" />
+</div>
+
+## Contribution graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/github-contribution-grid-snake.svg" alt="Animated snake moving across RJ's GitHub contributions" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=a7r52y0t8w4zrxechxzgljpa4" alt="RJ's recently played Spotify tracks" />
+</div>
