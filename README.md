@@ -71,6 +71,7 @@ I’m a curious builder from Bangladesh, learning in public and turning ideas in
 ## GitHub activity
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-rj-here&theme=github_dark" height="165" alt="RJ's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api?username=itz-rj-here&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=94a3b8" height="165" alt="RJ's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-rj-here&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=7c3aed&text_color=94a3b8" height="165" alt="RJ's most used languages" />
   <br />
@@ -78,7 +79,7 @@ I’m a curious builder from Bangladesh, learning in public and turning ideas in
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itz-rj-here&theme=radical&no-frame=true&margin-w=12&margin-h=12" alt="RJ's GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=itz-rj-here&theme=nord" alt="RJ's GitHub trophies" />
 </div>
 
 ## Contribution graph
