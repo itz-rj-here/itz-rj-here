@@ -75,12 +75,14 @@ I’m a curious builder from Bangladesh, learning in public and turning ideas in
   <img src="https://github-readme-stats.vercel.app/api?username=itz-rj-here&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=94a3b8" height="165" alt="RJ's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-rj-here&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=7c3aed&text_color=94a3b8" height="165" alt="RJ's most used languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=itz-rj-here&hide_border=true&background=00000000&ring=7c3aed&fire=fb923c&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=94a3b8" height="165" alt="RJ's contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itz-rj-here&theme=midnight-purple" height="165" alt="RJ's contribution streak" />
 </div>
 
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=itz-rj-here&theme=nord" alt="RJ's GitHub trophies" />
 </div>
+
+![Commit FM](commit-fm.svg)
 
 ## Contribution graph
 
