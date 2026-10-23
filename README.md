@@ -15,29 +15,11 @@ I’m a curious builder from Bangladesh, learning in public and turning ideas in
 
 ## About me
 
-- 🔭 Building **Material You NewTab** and contributing to **TeenAgeTech Bangladesh**
+- 🔭 Building **Material You New Tab** and contributing to **TeenAgeTech Bangladesh**
 - 🌱 Currently growing with **HTML, CSS, JavaScript, and Java**
 - 🤝 Open to collaborating on friendly open-source and community projects
 - 💬 Happy to talk about **Minecraft, tech, and the fun side of the internet**
 - 📫 Reach me at [faiadmahmudadil@gmail.com](mailto:faiadmahmudadil@gmail.com)
-
-<p align="center">
-  <a href="https://linkedin.com/in/itz-rj/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/certified_valochele/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/itzrjhere" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Facebook" />
-  </a>
-  <a href="https://x.com/_itz_rj_" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
-  </a>
-  <a href="https://discordapp.com/users/722033282631467069" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" />
-  </a>
-</p>
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -46,12 +28,11 @@ I’m a curious builder from Bangladesh, learning in public and turning ideas in
   </a>
 </p>
 
-## 📊 GitHub Stats:
 ## Featured communities
 
 <div align="center">
 
-[![Material You NewTab](https://img.shields.io/badge/Material%20You-NewTab-6750A4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/XengShi/materialYouNewTab)
+[![Material You New Tab](https://img.shields.io/badge/Material%20You-NewTab-6750A4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/prem-k-r/MaterialYouNewTab)
 [![Pixel Development](https://img.shields.io/badge/Pixel-Development-1f6feb?style=for-the-badge)](https://github.com/PixelzDevelopment)
 [![TeenAgeTech Bangladesh](https://img.shields.io/badge/TeenAgeTech-Bangladesh-00897B?style=for-the-badge)](https://github.com/TeenAgeTechBD)
 
@@ -108,8 +89,4 @@ I’m a curious builder from Bangladesh, learning in public and turning ideas in
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/itz-rj-here/itz-rj-here/output/github-contribution-grid-snake.svg" alt="Animated snake moving across RJ's GitHub contributions" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=a7r52y0t8w4zrxechxzgljpa4" alt="RJ's recently played Spotify tracks" />
 </div>
